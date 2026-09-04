@@ -59,6 +59,10 @@ Running the pipeline through Evidently AI's `Report([TextEvals()])` yielded a **
 
 The accompanying output tables capture the exact **reasoning** behind each judgment, validating model interpretability.
 
+<img width="907" height="398" alt="image" src="https://github.com/user-attachments/assets/f6a8625a-58bf-4dbd-8712-e15ba532a0a9" />
+<img width="986" height="366" alt="image" src="https://github.com/user-attachments/assets/2c110aa5-3735-441f-9849-0b9ea455825e" />
+<img width="1050" height="429" alt="image" src="https://github.com/user-attachments/assets/3b84b412-973b-46c3-929f-56a5b00e8440" />
+
 ---
 
 ## 🚀 How to Run
