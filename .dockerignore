@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+faiss_index.bin
+chunks_metadata.pkl
+OneDrive_1_1-9-2026.zip
