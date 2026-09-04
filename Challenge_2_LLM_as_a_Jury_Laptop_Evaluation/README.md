@@ -67,3 +67,17 @@ The accompanying output tables capture the exact **reasoning** behind each judgm
    ```bash
    git clone [https://github.com/Lama-Alfaifi/SDA-Agentic-AI-Bootcamp-Challenges.git](https://github.com/Lama-Alfaifi/SDA-Agentic-AI-Bootcamp-Challenges.git)
    cd SDA-Agentic-AI-Bootcamp-Challenges
+
+2. **Install Dependencies:**
+
+   ```bash
+    pip install "evidently[llm]" litellm pandas
+
+3. **Set API Key:**
+
+   ```bash
+    export OPENAI_API_KEY="your-api-key-here"
+(If using Google Colab, store it securely in userdata.get('OPENAI_API_KEY')).
+
+4. **Execute the Notebook:**
+Open LLM_as_a_Jury_with_Evidently_AI_(demo).ipynb and execute all cells sequentially to generate the evaluation report.
