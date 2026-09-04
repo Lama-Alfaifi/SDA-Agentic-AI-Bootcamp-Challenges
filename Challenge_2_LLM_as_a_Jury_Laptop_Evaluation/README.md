@@ -80,4 +80,4 @@ The accompanying output tables capture the exact **reasoning** behind each judgm
 (If using Google Colab, store it securely in userdata.get('OPENAI_API_KEY')).
 
 4. **Execute the Notebook:**
-Open Challenge_2_LLM_as_a_Jury_Laptop_Evaluation.ipynb and execute all cells sequentially to generate the evaluation report.
+Open LLM_as_a_Jury_Laptop_Evaluation .ipynb and execute all cells sequentially to generate the evaluation report.
