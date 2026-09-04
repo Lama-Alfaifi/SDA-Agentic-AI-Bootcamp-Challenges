@@ -65,5 +65,5 @@ The accompanying output tables capture the exact **reasoning** behind each judgm
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone [https://github.com/Lama-Alfaifi/SDA-Agentic-AI-Bootcamp-Challenges.git](https://github.com/Lama-Alfaifi/SDA-Agentic-AI-Bootcamp-Challenges.git)
+   cd SDA-Agentic-AI-Bootcamp-Challenges
