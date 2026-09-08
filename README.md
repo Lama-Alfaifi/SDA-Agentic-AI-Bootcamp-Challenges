@@ -1,4 +1,4 @@
-#AI Agents Bootcamp — Challenges
+# AI Agents Bootcamp — Challenges
 
 A collection of challenges, tasks, exercises, and projects completed during the **AI Agents Bootcamp**.
 
